@@ -7,7 +7,7 @@ O MovieApp é uma aplicação web desenvolvida para os amantes de filmes. Ele of
 
 ## Links
 - [Código - Github](https://github.com/JoaoVictorRossi/Checkpoint_MovieApp_3SIR/tree/main)
-- [Youtube](https://github.com/JoaoVictorRossi/Checkpoint_MovieApp_3SIR/tree/main)
+- [Youtube](https://youtu.be/c6CKqaqX-Lc)
 
 
  ## Integrantes 
@@ -15,5 +15,5 @@ O MovieApp é uma aplicação web desenvolvida para os amantes de filmes. Ele of
 |-------------|-------------|
 | Hugo Ramoz Andrade | 95475 |
 | João Victor Rossi | 92962 |
-| Luana Auino | 93074 |
+| Luana Aquino | 93074 |
 
